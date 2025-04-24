@@ -19,7 +19,7 @@ Tudo fica salvo localmente e de forma protegida. Só você sabe onde acessar. �
 
 1. Clone o projeto:
    ```bash
-   git clone https://github.com/seu-usuario/beba-agua.git
+   git clone https://github.com/MauricioCogo/beba-agua.git
    cd beba-agua
    ```
 
