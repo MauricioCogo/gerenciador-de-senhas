@@ -18,18 +18,18 @@ Tudo fica salvo localmente e de forma protegida. Só você sabe onde acessar. �
 🚀 Como rodar
 
 1. Clone o projeto:
-```
+   ```bash
    git clone https://github.com/seu-usuario/beba-agua.git
    cd beba-agua
-```
+   ```
 
 3. Instale as dependências:
-   ```
+   ```bash
    npm install
    ```
    
 4. Rode o app:
-   ```
+   ```bash
    npx expo start
    ```
 ✨ Por que usar?
