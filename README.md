@@ -18,15 +18,20 @@ Tudo fica salvo localmente e de forma protegida. Só você sabe onde acessar. �
 🚀 Como rodar
 
 1. Clone o projeto:
+```
    git clone https://github.com/seu-usuario/beba-agua.git
    cd beba-agua
+```
 
-2. Instale as dependências:
+3. Instale as dependências:
+   ```
    npm install
-
-3. Rode o app:
+   ```
+   
+4. Rode o app:
+   ```
    npx expo start
-
+   ```
 ✨ Por que usar?
 
 Porque às vezes a melhor forma de proteger seus dados é não deixar claro que você está protegendo algo. 😎
